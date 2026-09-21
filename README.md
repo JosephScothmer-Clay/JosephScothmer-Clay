@@ -1,7 +1,8 @@
-# I'm Joseph a Software Engineer Professionally Since 2020
+# I'm Joseph, a software engineer and founder of ClayLingua
 
 - Based in the UK
-- Working on founding my own website
+- Growing a SaaS
+- Software engineer since 2020
 
 ## Technologies & Tools
 
